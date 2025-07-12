@@ -1,0 +1,21 @@
+
+---
+
+## 🔗 Model Download Link
+
+Due to size constraints (1.18GB), the fine-tuned model is hosted externally:
+
+👉 [Download linkedin_model.zip from Google Drive](https://drive.google.com/file/d/1Q2m0YRerVGI_LBD1dsojMoZ8TDJ3ud8Q/view?usp=drive_link)
+
+To use it:
+1. Download and extract `linkedin_model.zip`
+2. Place the extracted `linkedin_model` folder in the same directory as `app.py` or `generate.py`
+
+---
+
+## 🚀 How to Run
+
+### ▶️ CLI (generate.py)
+```bash
+python generate.py
+# Enter your LinkedIn post theme when prompted

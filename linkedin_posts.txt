@@ -1,0 +1,31 @@
+Excited to share that I’ve started a new position as Software Developer at Infosys!
+Completed my Machine Learning certification from Coursera. Proud moment.
+Grateful to my mentors and peers at TCS for a wonderful internship experience.
+Looking forward to applying my data science skills in real-world projects.
+Just published my first blog on Medium about Natural Language Processing.
+Thrilled to announce that our team won the 1st prize at the Smart India Hackathon!
+I’m open to full-time roles in data analytics and machine learning.
+Proud to complete AWS Certified Solutions Architect Associate.
+Shared my recent experience working on a recommendation engine with collaborative filtering.
+Started working on my portfolio website to showcase all my ML projects.
+Thankful for my journey so far in tech. Many more milestones to come!
+Just finished reading “Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow” — what a book!
+Completed a mini-project on time series forecasting using LSTM.
+Wrapping up an amazing internship at Cognizant where I learned a lot.
+Recently completed Google Data Analytics Professional Certificate.
+Gave a guest lecture at a local college about careers in AI and ML.
+Started my journey with PyTorch today. Loving the experience so far.
+Successfully implemented a computer vision project to detect helmet violations.
+Launched my first web app using Streamlit for crop yield prediction.
+Excited to participate in an upcoming datathon organized by Analytics Vidhya.
+Completed a capstone project on customer segmentation using KMeans.
+Just joined a startup as an NLP Intern — thrilled for the journey ahead.
+Happy to connect with professionals working in data science and AI.
+Grateful to be featured in my college magazine for my AI research paper.
+Completed an internship in Machine Learning at a fintech company. Lots of learning!
+Presented a poster at a national conference on Deep Learning applications.
+Published a beginner-friendly article on GitHub about Decision Trees.
+Working on a mini project using Hugging Face transformers and fine-tuning.
+Successfully trained a language model locally to generate LinkedIn posts!
+Participated in a Kaggle competition and improved my model’s RMSE by 30%.
+Currently learning about model deployment using FastAPI and Docker.
